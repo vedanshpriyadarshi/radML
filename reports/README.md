@@ -1,1 +1,1 @@
-## This folder contains individual reports.
+## This folder houses individual reports.
